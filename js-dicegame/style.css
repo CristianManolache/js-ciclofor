@@ -1,0 +1,28 @@
+.container {
+  text-align: center;
+  width: 80%;
+  margin: 20px auto;
+}
+.dice {
+  display: inline-block;
+  text-align: center;
+}
+body {
+  background-color: #393e46;
+}
+h1 {
+  font-family: font-family: 'Montserrat', sans-serif;
+  font-size: 45px;
+  color: #4ecca3;
+  text-shadow: 5px 0 black;
+}
+p {
+  font-size: 25px;
+  color: #fefefe;
+  text-shadow: 3px 0 black;
+  font-family: font-family: 'Cuprum', sans-serif;
+}
+img {
+  border-radius: 25px;
+  width: 80%;
+}
